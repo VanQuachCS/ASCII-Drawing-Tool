@@ -1,0 +1,3 @@
+- Developed a command-line ASCII drawing tool in C that rendered points and line segments on a 2D character map.
+- Parsed structured, case-insensitive user commands utilizing fgets(), strtok(), and toupper().
+- Implemented input validation for invalid commands, out-of-range coordinates, and boundary violations while dynamically updating the map after each command.
